@@ -22,3 +22,4 @@ Run:
 Notes;
 - The board prints numbers for empty cells to show move positions.
  - Colored output: X and O are colored using ANSI escape sequences. If your terminal doesn't support colors or you prefer no color, set the environment variable `NO_COLOR` or run the program with the `--no-color` flag.
+-small projects , every day
