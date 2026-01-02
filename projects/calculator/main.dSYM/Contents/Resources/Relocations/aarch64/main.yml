@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/amoahnyamejonathanbenson/A-simple-tic--tac-toe-game/projects/calculator/main'
+relocations:     []
+...

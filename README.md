@@ -1,4 +1,4 @@
-Tic Tac Toe (C++)
+Beginner friendly C++ projects
 
 Files:
 - tictactoe.cpp: Console Tic Tac Toe game with Human vs Human and Human vs Computer (minimax AI).

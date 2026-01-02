@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+**/*.dSYM/
+
+# Project binaries (common names used during testing)
+/projects/*/guess-number
+/projects/*/calculator
+/projects/*/rps
+/projects/*/main
+
+# Editor files
+.vscode/
+*.swp
